@@ -1,5 +1,5 @@
-Merhaba!
-Hello!
+Merhaba!Merhaba!Merhaba!
+Hello!Hello!Hello!
 Hello 2!
 Tekrardan merhaba.
 Hello again!
