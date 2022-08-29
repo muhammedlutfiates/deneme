@@ -1,6 +1,6 @@
 Merhaba!Merhaba!Merhaba!
 Hello!Hello!Hello!
-Hello 2!
-Tekrardan merhaba.
+Hello 2!Hello 2!Hello 2!
+Tekrardan merhaba.Tekrardan merhaba.Tekrardan merhaba.
 Hello again!
 Deneme branch
